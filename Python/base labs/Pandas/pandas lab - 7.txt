@@ -1,0 +1,22 @@
+import sys
+import pandas as pd
+import numpy as np
+import random
+import matplotlib.pyplot as plt
+
+Прочитать файл CSV и перевести его в DataFrame
+'https://raw.githubusercontent.com/Grossmend/CSV/master/titanic/data.csv'
+
+ Прочитать файл CSV (определенные столбцы и определенное кол-во строк) и перевести его в DataFrame
+ 'Name', 'Sex', 'Survived
+ 
+ Прочитать файл CSV и перевести каждую 100-ую строку в DataFrame
+ 
+ Преобразовать индексы объекта Series в столбец DataFrame
+ 
+ Посмотреть информацию объекта DataFrame
+ Вывести формат каждого столбца
+ Вывести размерность DataFrame
+ Вывести общую статистика
+ 
+ 
